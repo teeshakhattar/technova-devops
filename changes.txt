@@ -1,0 +1,3 @@
+- Added personal identifier (Teesha Khattar)
+- Changed homepage heading
+- Preparing for submission on 24th July
